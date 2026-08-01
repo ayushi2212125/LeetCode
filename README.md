@@ -20,4 +20,8 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushi2212125/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/ayushi2212125/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
