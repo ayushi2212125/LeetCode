@@ -10,6 +10,7 @@ Learn Coding
 | [0181-employees-earning-more-than-their-managers](https://github.com/ayushi2212125/LeetCode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/ayushi2212125/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/ayushi2212125/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/ayushi2212125/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/ayushi2212125/LeetCode/tree/main/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushi2212125/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Two Pointers
