@@ -28,6 +28,7 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushi2212125/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/ayushi2212125/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushi2212125/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
