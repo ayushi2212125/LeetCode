@@ -31,6 +31,7 @@ Learn Coding
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/ayushi2212125/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ayushi2212125/LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/ayushi2212125/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayushi2212125/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@ Learn Coding
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/ayushi2212125/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayushi2212125/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
