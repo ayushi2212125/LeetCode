@@ -25,6 +25,7 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushi2212125/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +50,24 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ayushi2212125/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
