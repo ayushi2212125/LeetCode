@@ -37,6 +37,7 @@ Learn Coding
 | [0007-reverse-integer](https://github.com/ayushi2212125/LeetCode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/ayushi2212125/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/ayushi2212125/LeetCode/tree/main/0050-powx-n/) | Medium |
+| [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayushi2212125/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -55,14 +56,17 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushi2212125/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
@@ -72,4 +76,12 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
