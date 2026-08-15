@@ -25,6 +25,7 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushi2212125/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/ayushi2212125/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ayushi2212125/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## String
@@ -56,6 +57,7 @@ Learn Coding
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushi2212125/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0088-merge-sorted-array](https://github.com/ayushi2212125/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Binary Search
@@ -83,5 +85,6 @@ Learn Coding
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/ayushi2212125/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0268-missing-number](https://github.com/ayushi2212125/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
