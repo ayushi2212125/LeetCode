@@ -29,10 +29,12 @@ Learn Coding
 | [0151-reverse-words-in-a-string](https://github.com/ayushi2212125/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/ayushi2212125/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/ayushi2212125/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/ayushi2212125/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayushi2212125/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/ayushi2212125/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
