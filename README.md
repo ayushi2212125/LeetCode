@@ -20,6 +20,7 @@ Learn Coding
 | [0619-biggest-single-number](https://github.com/ayushi2212125/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/ayushi2212125/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/ayushi2212125/LeetCode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1148-article-views-i](https://github.com/ayushi2212125/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushi2212125/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
