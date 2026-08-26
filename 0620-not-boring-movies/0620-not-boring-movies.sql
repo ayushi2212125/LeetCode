@@ -1,4 +1,4 @@
 SELECT *
 FROM Cinema
-WHERE description != 'boring' and id % 2 != 0
-ORDER BY rating desc;
+WHERE id % 2 != 0 and description != 'boring'
+order by rating desc;
