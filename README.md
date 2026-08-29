@@ -31,6 +31,7 @@ Learn Coding
 | [1661-average-time-of-process-per-machine](https://github.com/ayushi2212125/LeetCode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/ayushi2212125/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushi2212125/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ayushi2212125/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
