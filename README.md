@@ -23,6 +23,7 @@ Learn Coding
 | [1068-product-sales-analysis-i](https://github.com/ayushi2212125/LeetCode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/ayushi2212125/LeetCode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/ayushi2212125/LeetCode/tree/main/1148-article-views-i/) | Easy |
+| [1211-queries-quality-and-percentage](https://github.com/ayushi2212125/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/ayushi2212125/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ayushi2212125/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ayushi2212125/LeetCode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
