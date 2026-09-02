@@ -35,6 +35,7 @@ Learn Coding
 | [1683-invalid-tweets](https://github.com/ayushi2212125/LeetCode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/ayushi2212125/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushi2212125/LeetCode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1978-employees-whose-manager-left-the-company](https://github.com/ayushi2212125/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ayushi2212125/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
