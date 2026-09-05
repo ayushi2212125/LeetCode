@@ -28,6 +28,7 @@ Learn Coding
 | [1148-article-views-i](https://github.com/ayushi2212125/LeetCode/tree/main/1148-article-views-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/ayushi2212125/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/ayushi2212125/LeetCode/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/ayushi2212125/LeetCode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ayushi2212125/LeetCode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/ayushi2212125/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/ayushi2212125/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
